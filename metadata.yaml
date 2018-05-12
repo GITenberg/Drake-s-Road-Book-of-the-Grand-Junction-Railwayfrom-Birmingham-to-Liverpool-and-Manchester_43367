@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42159'
     url: http://www.gutenberg.org/2009/agents/42159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43367#Drake-s-Road-Book-of-the-Grand-Junction-Railwayfrom-Birmingham-to-Liverpool-and-Manchester
 gutenberg_issued: '2013-07-31'
 gutenberg_type: Text
 identifiers:
